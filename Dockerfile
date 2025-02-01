@@ -1,5 +1,5 @@
 # Use the official Meilisearch image
-FROM getmeili/meilisearch:v1.6.0
+FROM getmeili/meilisearch:v1.12
 
 # Expose the Meilisearch port
 EXPOSE 7700
