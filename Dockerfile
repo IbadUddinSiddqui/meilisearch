@@ -9,3 +9,5 @@ ENV MEILI_MASTER_KEY="MgSJAN0gbyAPu-pkndrNpEkccuR3mXwIdD1FNiQuQU0 "
 
 # Start Meilisearch
 CMD ["./meilisearch"]
+
+
